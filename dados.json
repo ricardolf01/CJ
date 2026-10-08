@@ -1,0 +1,264 @@
+{
+ "cfg": {
+  "nome": "CJ Lanches",
+  "wa": "",
+  "desc": "CJ Lanches: os melhores hambúrgueres da região. Hambúrguer artesanal, combos, porções e bebidas geladas. Faça seu pedido pelo WhatsApp.",
+  "addr": "",
+  "h1": "",
+  "h2": "",
+  "taxa": 0,
+  "min": 0,
+  "fr": "Entrega rápida|Ingredientes selecionados|Hambúrguer artesanal|Refrigerante gelado|Combos especiais",
+  "logo": ""
+ },
+ "cats": [
+  {
+   "id": "c1",
+   "n": "Hambúrgueres"
+  },
+  {
+   "id": "c2",
+   "n": "Combos"
+  },
+  {
+   "id": "c3",
+   "n": "X-Burguer"
+  },
+  {
+   "id": "c4",
+   "n": "X-Salada"
+  },
+  {
+   "id": "c5",
+   "n": "X-Bacon"
+  },
+  {
+   "id": "c6",
+   "n": "X-Tudo"
+  },
+  {
+   "id": "c7",
+   "n": "Artesanais"
+  },
+  {
+   "id": "c8",
+   "n": "Batatas Fritas"
+  },
+  {
+   "id": "c9",
+   "n": "Porções"
+  },
+  {
+   "id": "c10",
+   "n": "Bebidas"
+  },
+  {
+   "id": "c11",
+   "n": "Refrigerantes"
+  },
+  {
+   "id": "c12",
+   "n": "Sucos"
+  },
+  {
+   "id": "c13",
+   "n": "Sobremesas"
+  }
+ ],
+ "ads": [
+  {
+   "id": "a1",
+   "n": "Bacon",
+   "p": 4
+  },
+  {
+   "id": "a2",
+   "n": "Queijo Extra",
+   "p": 3
+  },
+  {
+   "id": "a3",
+   "n": "Catupiry",
+   "p": 4
+  },
+  {
+   "id": "a4",
+   "n": "Cheddar",
+   "p": 4
+  },
+  {
+   "id": "a5",
+   "n": "Ovo",
+   "p": 2.5
+  },
+  {
+   "id": "a6",
+   "n": "Calabresa",
+   "p": 4
+  }
+ ],
+ "bans": [
+  {
+   "id": "b1",
+   "t": "CJ Lanches",
+   "s": "Os melhores hambúrgueres da região",
+   "bb": "Peça Agora",
+   "img": "",
+   "cat": "s/all"
+  },
+  {
+   "id": "b2",
+   "t": "Combos especiais",
+   "s": "Monte seu pedido e finalize pelo WhatsApp",
+   "bb": "Ver combos",
+   "img": "",
+   "cat": "c2"
+  }
+ ],
+ "prods": [
+  {
+   "ph": [],
+   "ad": [
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "a5",
+    "a6"
+   ],
+   "d": "Pão brioche, hambúrguer artesanal, queijo, bacon e molho especial.",
+   "pp": 0,
+   "st": 1,
+   "est": null,
+   "id": "p1",
+   "n": "X-Bacon Especial",
+   "c": "c5",
+   "p": 24.9,
+   "fl": {
+    "mv": 1
+   }
+  },
+  {
+   "ph": [],
+   "ad": [
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "a5",
+    "a6"
+   ],
+   "d": "Hambúrguer, queijo, presunto, bacon, ovo, calabresa, alface, tomate e molho.",
+   "pp": 0,
+   "st": 1,
+   "est": null,
+   "id": "p2",
+   "n": "X-Tudo",
+   "c": "c6",
+   "p": 29.9,
+   "fl": {
+    "mv": 1
+   }
+  },
+  {
+   "ph": [],
+   "ad": [
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "a5",
+    "a6"
+   ],
+   "d": "Dois hambúrgueres artesanais, queijo cheddar, cebola caramelizada e molho da casa.",
+   "pp": 29.9,
+   "st": 1,
+   "est": null,
+   "id": "p3",
+   "n": "Artesanal Duplo",
+   "c": "c7",
+   "p": 32.9,
+   "fl": {
+    "mv": 0
+   }
+  },
+  {
+   "ph": [],
+   "ad": [],
+   "d": "2 X-Bacon, 1 batata frita G e 2 refrigerantes lata.",
+   "pp": 0,
+   "st": 1,
+   "est": null,
+   "id": "p4",
+   "n": "Combo Casal",
+   "c": "c2",
+   "p": 54.9,
+   "fl": {
+    "mv": 0
+   }
+  },
+  {
+   "ph": [],
+   "ad": [
+    "a1",
+    "a4"
+   ],
+   "d": "Porção grande de batata frita crocante.",
+   "pp": 0,
+   "st": 1,
+   "est": null,
+   "id": "p5",
+   "n": "Batata Frita G",
+   "c": "c8",
+   "p": 20,
+   "fl": {
+    "mv": 1
+   }
+  },
+  {
+   "ph": [],
+   "ad": [],
+   "d": "Bem gelado.",
+   "pp": 0,
+   "st": 1,
+   "est": 24,
+   "id": "p6",
+   "n": "Refrigerante Lata 350ml",
+   "c": "c11",
+   "p": 6,
+   "fl": {
+    "mv": 0
+   }
+  },
+  {
+   "ph": [],
+   "ad": [],
+   "d": "Suco natural da fruta.",
+   "pp": 0,
+   "st": 1,
+   "est": null,
+   "id": "p7",
+   "n": "Suco de Laranja 500ml",
+   "c": "c12",
+   "p": 8,
+   "fl": {
+    "mv": 0
+   }
+  },
+  {
+   "ph": [],
+   "ad": [],
+   "d": "Brownie quentinho com bola de sorvete.",
+   "pp": 0,
+   "st": 1,
+   "est": 0,
+   "id": "p8",
+   "n": "Brownie com Sorvete",
+   "c": "c13",
+   "p": 14.9,
+   "fl": {
+    "mv": 0
+   }
+  }
+ ]
+}
